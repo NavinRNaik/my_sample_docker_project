@@ -1,13 +1,13 @@
 # my_sample_docker_project
 A Maven project and a Dockerfile
 
-*Still src file to be added *
+**Still src file to be added**
 
-A. Prerequisites on Jenkins Host (Master or Agent)
+**A. Prerequisites on Jenkins Host (Master or Agent)**
 
-To enable Docker builds inside Jenkins:
+**To enable Docker builds inside Jenkins:**
 
-Install Docker
+**Install Docker**
 
 sudo apt-get update  
 sudo apt install docker.io  
