@@ -1,6 +1,8 @@
 # my_sample_docker_project
 A Maven project and a Dockerfile
 
+*Still src file to be added *
+
 A. Prerequisites on Jenkins Host (Master or Agent)
 
 To enable Docker builds inside Jenkins:
